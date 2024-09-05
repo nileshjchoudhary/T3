@@ -1,0 +1,15 @@
+
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               3               yes             0.5     0.5
+
+
+#include "r1234e.itp"
+
+
+[ system ]
+R1234
+
+[ molecules ]
+123     466
+
